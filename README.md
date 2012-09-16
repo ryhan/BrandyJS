@@ -1,4 +1,4 @@
-BrandyJS
-========
+Brandy
+======
 
-Clientside Brandy
+Domain search page
